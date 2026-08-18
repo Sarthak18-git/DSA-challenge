@@ -48,5 +48,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0904-fruit-into-baskets) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
