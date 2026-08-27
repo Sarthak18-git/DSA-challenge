@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sarthak18-git/DSA-challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
@@ -139,4 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
