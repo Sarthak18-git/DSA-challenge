@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0739-daily-temperatures) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0739-daily-temperatures) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0901-online-stock-span) |
 ## Design
@@ -149,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0901-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
