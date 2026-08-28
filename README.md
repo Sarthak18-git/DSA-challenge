@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sarthak18-git/DSA-challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0907-sum-of-subarray-minimums) |
 ## Matrix
@@ -170,4 +172,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
