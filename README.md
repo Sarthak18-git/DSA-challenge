@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sarthak18-git/DSA-challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0904-fruit-into-baskets) |
 ## Math
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0085-maximal-rectangle) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
