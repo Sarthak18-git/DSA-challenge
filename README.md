@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0085-maximal-rectangle) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarthak18-git/DSA-challenge/tree/master/1004-max-consecutive-ones-iii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0085-maximal-rectangle) |
 ## Backtracking
 |  |
