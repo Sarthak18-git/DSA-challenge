@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0704-binary-search) |
