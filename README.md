@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0907-sum-of-subarray-minimums) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarthak18-git/DSA-challenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
