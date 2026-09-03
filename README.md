@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0739-daily-temperatures) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarthak18-git/DSA-challenge/tree/master/1004-max-consecutive-ones-iii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sarthak18-git/DSA-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
